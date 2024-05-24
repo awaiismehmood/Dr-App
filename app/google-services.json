@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218518105039",
+    "project_id": "dr-app-95d35",
+    "storage_bucket": "dr-app-95d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218518105039:android:42d6bdd18c327a0d5880ba",
+        "android_client_info": {
+          "package_name": "com.example.drapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218518105039-5npb7da16patderqisubmh8r52gcg38b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAogbtJnyCaaxBODXenn9mwva9AHSwXWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218518105039-5npb7da16patderqisubmh8r52gcg38b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
